@@ -1,3 +1,21 @@
 <resources>
-    <string name="app_name">AdoptAPet</string>
+    <string name="app_name">Adopt A Pet</string>
+
+    <string name="item_pet_name_example">Pet Name</string>
+    <string name="pet_list_generic_error">Error al cargar las mascotas</string>
+
+    <!--Pet Detail-->
+    <string name="pet_detail_color">Color</string>
+    <string name="pet_detail_age">Edad</string>
+    <string name="pet_detail_size">Tamaño</string>
+    <string name="pet_detail_sex">Sexo</string>
+    <string name="pet_detail_adopt">Adoptar</string>
+    <string name="pet_detail_friendly">Amigable con</string>
+    <string name="pet_detail_generic_error">Error al cargar el perfil</string>
+    <string name="pet_detail_hint_email">Correo</string>
+    <string name="pet_detail_hint_message">Mensaje</string>
+    <string name="pet_detail_dialog_message">Adopción</string>
+    <string name="pet_detail_adoption">Mensaje enviado</string>
+    <string name="pet_detail_adoption_error">Error al enviar el mensaje</string>
+
 </resources>
